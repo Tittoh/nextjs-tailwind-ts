@@ -19,11 +19,11 @@
     "@next/font": "13.1.1",
     "next": "13.1.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "styled-jsx-plugin-postcss": "^4.0.1"
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^13.1.1",
+    "@next/eslint-plugin-next": "^13.1.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@types/node": "18.11.18",
